@@ -25,5 +25,10 @@ Blogs Website is a simple yet elegant project built with React.js, JavaScript, a
    ```bash
    npm install
 3. Start the development server:
-  ```bash
-   npm start
+   ```bash
+    npm start
+
+## Usage
+ - **View Blogs**: The homepage displays a list of IT-related blog posts in card format.
+ - **Toggle Theme**: Click the theme icon in the navbar to switch between light and dark themes.
+ - **Navigate Pages**: Use the "Next" and "Previous" buttons at the bottom of the page to navigate through the blog entries. The current page number out of the total pages is displayed.
