@@ -24,7 +24,6 @@ Blogs Website is a simple yet elegant project built with React.js, JavaScript, a
 2. Install dependencies:
    ```bash
    npm install
-
-3.Start the development server:
+3. Start the development server:
   ```bash
-  npm start
+   npm start
